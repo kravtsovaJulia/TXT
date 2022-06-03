@@ -1,0 +1,6 @@
+lastName Kravtsova
+ firstName  Julia
+patronymic Grigorievna
+years old 23
+number of pets 1
+future desired salary 50 000
