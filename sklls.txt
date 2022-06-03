@@ -1,0 +1,16 @@
+SDLC, STLC
+HTTP
+JSON, XML
+API через Postman
+Dev Tools
+Мобильное тестирование
+Сборка Android приложений на Android Studio
+ADB (управление андройд девайсами)
+Командная строка terminal
+Основы bash скриптинг
+Основы SQL
+База данных Postgres
+Нереляционная база данных Redis
+Нагрузочное тестирование в Jmeter
+Методология разработки Scrum
+JavaScript
