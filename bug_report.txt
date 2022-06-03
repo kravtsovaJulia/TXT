@@ -1,1 +1,8 @@
-
+bag_id 236
+ Severity Minor
+ Priority low
+ Environment Redmi Note 8 M1908C3JG
+ Precondition Open the App
+ STR Click button Add widget,Hide application,Look the widget icon
+ AR parameters Height (H) and Width (W) are set to 0
+ ER the parameters Height (H) and Width (W) are in values in relation to the screen resolution settings that the user has set
